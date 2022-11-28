@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vic-paul&label=Profile%20views&color=0e75b6&style=flat" alt="vic-paul" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vic-paul" alt="vic-paul" /></a> </p>
+
 - 🌱 I’m currently learning **MERN stack**
 
 - 👨‍💻 All of my projects are available at [https://vic-paul.github.io/](https://vic-paul.github.io/)
@@ -11,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/victor-paul-choudhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victor-paul-choudhury" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
