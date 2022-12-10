@@ -36,8 +36,9 @@
 ## <h2 align="left">📊 Github Stats:</h2>
 <p align="left">
   <a>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vic-paul&show_icons=true&locale=en&theme=transparent" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=vic-paul&theme=react&background=00000000" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vic-paul&show_icons=true&locale=en&theme=transparent" />     
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=vic-paul&background=00000000&theme=react" />
+     
   </a>
 </p>
 
