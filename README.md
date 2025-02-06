@@ -44,9 +44,6 @@
   </a>
 </p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vic-paul&label=Profile%20views&color=blue&style=for-the-badge" alt="vic-paul" /> </p>
-
 <h2 align="left">🏆 Github Trophies:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vic-paul" alt="vic-paul" /></a> </p>
 
