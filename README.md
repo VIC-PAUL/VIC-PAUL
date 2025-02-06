@@ -50,6 +50,3 @@
 <h2 align="left">🏆 Github Trophies:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vic-paul" alt="vic-paul" /></a> </p>
 
-
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Victor's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=VIC-PAUL&theme=react-dark&hide_border=true" /></a>
