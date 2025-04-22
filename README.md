@@ -8,7 +8,7 @@
 </p>
 
 
- - 🌱 I’m currently learning **MERN stack**
+ - 🌱 I’m currently learning **MERVN stack**
 
 - 👨‍💻 All of my projects are available at [VIC-PAUL](https://vic-paul.github.io/)
 
