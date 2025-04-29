@@ -7,7 +7,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+profile;I+am+a+Full+Stack+Web+Developer"></a>
 </p>
 
-
  - 🌱 I’m currently learning **MERVN stack**
 
 - 👨‍💻 All of my projects are available at [VIC-PAUL](https://vic-paul.github.io/)
