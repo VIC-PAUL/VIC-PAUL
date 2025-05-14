@@ -7,7 +7,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+github+profile;I+am+a+Full+Stack+Web+Developer"></a>
 </p>
 
- - 🌱 I’m currently learning **MERVN stack**
+ - 🌱 I’m **MERVN stack** developer
 
 - 👨‍💻 All of my projects are available at [VIC-PAUL](https://vic-paul.github.io/)
 
@@ -33,17 +33,4 @@
      <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=netlify" alt="netlify" width="40" height="40"/> </a>
 </p>
 
-
-## <h2 align="left">📊 Github Stats:</h2>
-<p align="left">
-  <a>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=vic-paul&show_icons=true&locale=en&theme=transparent" />     
-     
-  </a>
-</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vic-paul&label=Profile%20views&color=blue&style=for-the-badge" alt="vic-paul" /> </p>
-
-<h2 align="left">🏆 Github Trophies:</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vic-paul" alt="vic-paul" /></a> </p>
 
