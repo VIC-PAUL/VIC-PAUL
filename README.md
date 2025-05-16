@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vicpaul1994@gmail.com**
 
- <h2 align="left">🌐 Connect with me:</h2>
+ <h2 align="left">🌐Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/victor__paul" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="victor__paul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/victor-paul-choudhury" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="victor-paul-choudhury" height="30" width="40" /></a>
