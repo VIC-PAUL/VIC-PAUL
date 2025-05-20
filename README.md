@@ -20,6 +20,7 @@
 <a href="https://discord.gg/Victor Paul#6459" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Victor Paul#6459" height="30" width="40" /></a>
 </p>
 
+
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="40" height="40"/> </a>
